@@ -1,0 +1,5 @@
+a=int(input("enter first number:"))
+b=int(input("enter second number:"))
+c=int(input("enter three number:"))
+minimum=min(a,b,c)
+print("minimum:",min(a,b,c))
